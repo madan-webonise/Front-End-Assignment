@@ -21,6 +21,7 @@
 .navigation li a{
 	color : #ffffff;
 	padding : 0px;
+	border-right: 1px solid;
 }
 .navigation li form {
 	display: inline;
@@ -52,7 +53,7 @@
 	font-family:Georgia;
 }
 .yellowhr{
-	border : 3px SOLID YELLOW;
+	border : 3px SOLID  #DAA520;
 }
 .headingcontent {
 	color :BLACK;
@@ -64,9 +65,12 @@
 	font-family:Georgia;
 }
 .belowpart{
-	background-color: #F0FFFF;
+	height:  450px;
+	background-color:  	#E6E6FA;
 	padding-top: 25px;
 	padding-bottom:25px;
+	margin :45px;
+	width :100%;
 }
 
 .SectorsweWork{
@@ -74,16 +78,62 @@
 	font-family: Georgia;
 
 }
- .boxed div{
- 	background-color: WHITE;
- 	padding : 75px;
+ .boxed {
+ 	background-color: white;
+ 	padding : 5px;
+	box-shadow: 10px 10px 5px #888888;
+
 }
-.internalboxcontent{
+.boxcontent{
 	color :#3355aa;
 	font-size:16px; 
+	padding : 10px;
 }
 .graybox{
- 	background-color: WHITE;
 	height:250px;
 	padding : 5px;
+	background-color: gray;
+}
+.footer {
+	background-color: #333333;
+	width:100%;
+}
+.footernavigation1{
+	list-style-type: none;
+	margin: 2px;
+    font-size : 14px;
+
+}
+.footernavigation1 li {
+	margin : 10x;
+	display: inline;
+	}
+.footernavigation1 li a{
+	color : #ffffff;
+	border-right: 2px solid;
+}
+.footernavigation2{
+	list-style-type: none;
+	margin: 2px;
+    font-size : 11px;
+    margin : 0px;
+}
+.footernavigation2 li {
+	display: inline;
+}
+.footernavigation2 li a{
+	color : #ffffff;
+	border-right: 2px solid;
+}
+.pullleft{
+	float: left;
+}
+.pullright{
+	float: right;
+}
+
+.Microsave{
+	font-size: 11px;
+	background-color: white;
+	border-color: white;
 }
