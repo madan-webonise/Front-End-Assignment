@@ -1,0 +1,140 @@
+.header{
+	height : 80px;
+	font-family: Georgia;
+	font-size: 13px;
+}
+.header2{
+	background-color: #3355aa;
+	height : 40px;
+	width : 100%;
+}
+.navigation { 
+	list-style-type: none;
+	margin: 2px;
+    padding: 0;
+    font-size : 15px;
+}
+.navigation li {
+	display: inline;
+	padding : 0px;
+	}
+.navigation li a{
+	color : #ffffff;
+	padding : 0px;
+	border-right: 1px solid;
+}
+.navigation li form {
+	display: inline;
+	padding : 0px;
+	float : right;
+	color : #ffffff;
+	}
+.searchbutton{
+	padding : 5px;
+	width : 45px;
+	background-color : #3355aa
+	}
+
+.banner img {
+	width:100%;
+	margin-top:35px;
+	
+}	
+.banner {
+	background-color: #F8F8FF;
+	font-size: 14px;
+	box-shadow: 10px 10px 5px #888888;
+}
+.heading {
+	margin-top: 15px;
+	color: #3355aa;
+	font-size: 16px;
+	margin-left: 0px;
+	font-family:Georgia;
+}
+.yellowhr{
+	border : 3px SOLID  #DAA520;
+}
+.headingcontent {
+	color :black;
+	text-align: justify;
+}
+.fontAuthor {
+	font-size:10px;
+	color : black;
+	font-family:Georgia;
+}
+.belowpart{
+	height:  450px;
+	background-color:  	#E6E6FA;
+	padding-top: 25px;
+	padding-bottom:25px;
+	margin :45px;
+	width :100%;
+}
+
+.SectorsweWork{
+	font-size:28px;
+	font-family: Georgia;
+
+}
+ .boxed {
+ 	background-color: white;
+ 	padding : 5px;
+	box-shadow: 10px 10px 5px #888888;
+
+}
+.boxcontent{
+	color :#3355aa;
+	font-size:16px; 
+	padding : 10px;
+}
+.graybox{
+	height:250px;
+	padding : 5px;
+	background-color: gray;
+}
+.footer {
+	background-color: #333333;
+	width:100%;
+	padding-bottom: 35px;
+	padding-top: 15px;
+}
+.footernavigation1{
+	list-style-type: none;
+	margin: 2px;
+    font-size : 14px;
+}
+.footernavigation1 li {
+	margin : 10x;
+	display: inline;
+	}
+.footernavigation1 li a{
+	color : #ffffff;
+	border-right: 2px solid;
+}
+.footernavigation2{
+	list-style-type: none;
+	margin: 2px;
+    font-size : 11px;
+    margin : 0px;
+}
+.footernavigation2 li {
+	display: inline;
+}
+.footernavigation2 li a{
+	color : #ffffff;
+	border-right: 2px solid;
+}
+.pullleft{
+	float: left;
+}
+.pullright{
+	float: right;
+}
+
+.Microsave{
+	font-size: 11px;
+	background-color: white;
+	color:black;
+}
